@@ -20,6 +20,3 @@ spec/reports
 
 # Netbeans
 nbproject
-
-# Don't force my gemset name on others.
-.rvmrc
